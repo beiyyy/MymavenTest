@@ -5,4 +5,5 @@ public class Girl {
     private String sex;
     private Integer age;
     private String User1;
+    private String User2;
 }
