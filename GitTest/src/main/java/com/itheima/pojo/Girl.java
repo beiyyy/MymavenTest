@@ -7,4 +7,5 @@ public class Girl {
     private String User1;
     private String User2;
     private String name2;
+    private String name3;
 }
